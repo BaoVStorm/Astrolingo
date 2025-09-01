@@ -31,9 +31,8 @@ Với những tính năng luyện thi TOEIC thực tế, thư viện từ vựng
 <br/>
 
 ## 1. Giới thiệu dự án
-- **Tên đồ án**: Ứng dụng học tiếng Anh TOEIC **AstroLingo**
-- **Người thực hiện**: Trần Vũ Bão
-- **Mã số sinh viên**: 22520124
+- **Tên đự án**: Ứng dụng học tiếng Anh TOEIC **AstroLingo**
+- **Thời gian**: 3 tháng
 
 <br/>
 
